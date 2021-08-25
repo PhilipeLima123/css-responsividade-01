@@ -1,0 +1,42 @@
+#folha{
+    background-color: #5F7285;
+    padding: 80px;
+    border-radius: 10px;
+    margin: auto;
+    min-height: 280px;
+    max-width: 800px;
+}
+body{
+    background-color: floralwhite;
+}
+
+
+
+#t1{
+    font-size: 105px;
+    width: 100%;
+    color: #FFF;
+    font-family: 'Varela Round', sans-serif;
+    
+}
+
+#h2{
+    font: 22px;
+    color: #FFF;
+    font-family: 'Varela Round', sans-serif;
+}
+
+#p1{
+    font-size: 14px;
+    color: #FFF;
+    font-family: 'Nunito', sans-serif;
+}
+
+button:hover {
+    background-color: #36B0E0;
+    color:#829DAD;
+    border-style: solid 20px #829DAD;
+}
+
+
+
